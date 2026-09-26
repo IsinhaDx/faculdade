@@ -24,3 +24,4 @@ O semestre foi definido pela data dos commits de cada repositório original
 - Os repositórios `trabalho-frontend` (05/05/2026, só `.gitignore`) e `front-end-` (vazio) não tinham código, por isso não foram incluídos.
 - Pastas geradas automaticamente (`node_modules/`, `dist/`) foram omitidas; basta rodar `npm install` / `npm run build`.
 - Os repositórios originais continuam intactos na conta.
+- Revisão de datas: todos os commits de todos os repositórios (inclusive branches) são de 2026 — a conta do GitHub foi criada em 24/02/2026, então não há código de anos anteriores. Novos semestres (ex.: `2027.1`) devem seguir o mesmo padrão `ANO.SEMESTRE/Nome-do-Projeto`.
